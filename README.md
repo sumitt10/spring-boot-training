@@ -2,7 +2,7 @@
 
 Welcome to my Spring Boot Training repository! This repository contains projects and exercises that I have worked on as part of my Spring Boot learning journey. Here, I explore various concepts, tools, and best practices related to Spring Boot development addition with PostgreSQL, H2, Lombok, MapStruct, and other dependencies.
 
-## Topics Covered
+## Topics Covered :
 
 - **Spring Boot Basics:**
   - Overview of Spring Boot.
