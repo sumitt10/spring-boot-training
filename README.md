@@ -19,6 +19,11 @@ Welcome to my Spring Boot Training repository! This repository contains projects
 - **Dependency Management:**
   - Usage of Lombok for reducing boilerplate code.
   - Integration of MapStruct for object mapping.
+ 
+## Projects
+  - Employee Management
+  - StudyHub-api
+  - Customer-Products-demo
 
 ### Prerequisites
 
